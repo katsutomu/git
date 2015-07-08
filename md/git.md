@@ -4,48 +4,23 @@
 
 ## 目次
 
-- Git 入門
 - そもそも何者？
-- どんな事ができるの？
+- Git 入門
+    - どんな事ができるの？
+    - gitとgithub
 - 使ってみよう！！
-- 使ってみよう！！ With チームで！
+- 使ってみよう！！ チームで！
+    - Miyazawaチームの使い方
 
 ---
 
 
-## VCS とは
-
---
+## そもそも何者？
 
 Version Control System
-
 バージョン管理システム
 
-
 ---
-
-### 何のためにあるのか
-
---- 
-
----
-
-### VCS どんなものがあるのか
-
----
-
-### なんで Git なのか
-
-社内では…
-
-- SVN(Subversion)
-- Git
-
---
-
-- SVN: 集中型
-- Git: 分散型
-----
 
 ## Git 入門
 
@@ -53,14 +28,14 @@ Version Control System
     - 個人での利用
     - チームでの利用方法
 
+---
 
---
 
-確認
+## 使ってみよう！！
 
-----
-    git config --global user.name
-    git config --global user.email
+---
+
+## 使ってみよう！！ チームで！
 
 ---
 
